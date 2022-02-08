@@ -1,3 +1,2 @@
-# angular-ivy-v25rdz
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-v25rdz)
+# Random-Video-Chat-
+Random Video Chat using Angular.JS and Node.js WebRTC and Sco
